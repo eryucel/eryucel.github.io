@@ -263,7 +263,8 @@ footer {
     height: 65vh;
     min-height: 500px;
     max-height: 1080px;
-    background: url(../images/lead-bg.jpg);
+    background: url(../images/nallihan.jpg) no-repeat;
+    background-position-y: -400px;
     background-size: cover;
     padding: 15px;
     overflow: hidden
@@ -524,6 +525,17 @@ footer {
 }
 
 #projects h2 {
+    color: #374054;
+    margin-bottom: 50px
+}
+
+#events {
+    padding: 50px 15px;
+    border-bottom: 1px solid #dcd9d9;
+    text-align: center
+}
+
+#events h2 {
     color: #374054;
     margin-bottom: 50px
 }
