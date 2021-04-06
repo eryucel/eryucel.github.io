@@ -336,7 +336,7 @@
     <div class="container-events">
         <div class="row" style="display: flex; flex-wrap: wrap">
             <div class="project shadow-large col-md-4 col-sm-6 col-xs-12"
-                 style="padding: 0;margin: 5px 5px;display: flex;flex-direction: column">
+                 style="padding: 0;margin: 0px 0px;display: flex;flex-direction: column">
                 <div class="project-image">
                     <img src="images/bilkamp.jpg" style="width: 100%"/>
                 </div>
@@ -353,7 +353,7 @@
             </div>
             <!-- End .project -->
             <div class="project shadow-large col-md-4 col-sm-6 col-xs-12"
-                 style="padding: 0;margin: 5px 5px;display: flex;flex-direction: column">
+                 style="padding: 0;margin: 0px 0px;display: flex;flex-direction: column">
                 <div class="project-image">
                     <img src="images/obss2.jpg" style="width: 100%"/>
                 </div>
@@ -370,7 +370,7 @@
             </div>
             <!-- End .project -->
             <div class="project shadow-large col-md-4 col-sm-6 col-xs-12"
-                 style="padding: 0;margin: 5px 5px;display: flex;flex-direction: column">
+                 style="padding: 0;margin: 0px 0px;display: flex;flex-direction: column">
                 <div class="project-image">
                     <img src="images/ieee.jpg" style="width: 100%;"/>
                 </div>
