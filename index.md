@@ -334,9 +334,9 @@
 <div id="events" class="background-alt">
     <h2 class="heading">Events</h2>
     <div class="container-events">
-        <div class="row" style="display: flex; flex-wrap: wrap">
-            <div class="project shadow-large col-md-4 col-sm-6 col-xs-12"
-                 style="padding: 0;margin: 0px 0px;display: flex;flex-direction: column">
+        <div class="row" style="display: flex; flex-wrap: wrap; justify-content: space-between">
+            <div class="project shadow-large col-md-3 col-sm-6 col-xs-12"
+                 style="padding: 0;margin: 0;display: flex;flex-direction: column">
                 <div class="project-image">
                     <img src="images/bilkamp.jpg" style="width: 100%"/>
                 </div>
@@ -352,8 +352,8 @@
                 <!-- End .project-info -->
             </div>
             <!-- End .project -->
-            <div class="project shadow-large col-md-4 col-sm-6 col-xs-12"
-                 style="padding: 0;margin: 0px 0px;display: flex;flex-direction: column">
+            <div class="project shadow-large col-md-3 col-sm-6 col-xs-12"
+                 style="padding: 0;margin: 0;display: flex;flex-direction: column">
                 <div class="project-image">
                     <img src="images/obss2.jpg" style="width: 100%"/>
                 </div>
@@ -369,8 +369,8 @@
                 <!-- End .project-info -->
             </div>
             <!-- End .project -->
-            <div class="project shadow-large col-md-4 col-sm-6 col-xs-12"
-                 style="padding: 0;margin: 0px 0px;display: flex;flex-direction: column">
+            <div class="project shadow-large col-md-3 col-sm-6 col-xs-12"
+                 style="padding: 0;margin: 0;display: flex;flex-direction: column">
                 <div class="project-image">
                     <img src="images/ieee.jpg" style="width: 100%;"/>
                 </div>
@@ -386,9 +386,6 @@
                 <!-- End .project-info -->
             </div>
             <!-- End .project -->
-        </div>
-        <div class="row" style="display: flex">
-
         </div>
     </div>
 </div>
