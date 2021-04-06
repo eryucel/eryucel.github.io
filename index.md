@@ -52,7 +52,7 @@
 <div id="lead">
     <div id="lead-content">
         <img src="https://instagram.fsaw2-2.fna.fbcdn.net/v/t51.2885-19/s320x320/44290197_199767170923399_5911322892901023744_n.jpg?tp=1&_nc_ht=instagram.fsaw2-2.fna.fbcdn.net&_nc_ohc=mUwlw6KThWsAX_KSMRT&edm=ABfd0MgAAAAA&ccb=7-4&oh=533a6dbe30317b81fd59cb563cd99487&oe=60922DE9&_nc_sid=7bff83"
-             alt="Hakan Eryucek" style="border-radius: 50%; margin-bottom: 10px;width: 40%">
+             alt="Hakan Eryucek" style="border-radius: 50%; margin-bottom: 10px;width: 20%">
         <h1>Hakan Eryucel</h1>
         <h2>Software & Computer Engineer</h2>
         <div class="social" style="text-align: center">
