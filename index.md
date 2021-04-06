@@ -51,34 +51,36 @@
 
 <div id="lead">
     <div id="lead-content">
+        <img src="https://instagram.fsaw2-2.fna.fbcdn.net/v/t51.2885-19/s320x320/44290197_199767170923399_5911322892901023744_n.jpg?tp=1&_nc_ht=instagram.fsaw2-2.fna.fbcdn.net&_nc_ohc=mUwlw6KThWsAX_KSMRT&edm=ABfd0MgAAAAA&ccb=7-4&oh=533a6dbe30317b81fd59cb563cd99487&oe=60922DE9&_nc_sid=7bff83"
+             alt="Hakan Eryucek" style="border-radius: 50%; margin-bottom: 10px;width: 40%">
         <h1>Hakan Eryucel</h1>
         <h2>Software & Computer Engineer</h2>
         <div class="social" style="text-align: center">
             <ul>
                 <li>
                     <a href="https://github.com/Hakan-er/" target="_blank"><i class="fa fa-github fa-2x"
-                                                                     style="color: white!important;"
-                                                                     aria-hidden="true"></i></a>
+                                                                              style="color: white!important;"
+                                                                              aria-hidden="true"></i></a>
                 </li>
                 <li>
                     <a href="https://www.linkedin.com/in/hak-er" target="_blank"><i class="fa fa-linkedin fa-2x"
-                                                                       style="color: white!important;"
-                                                                       aria-hidden="true"></i></a>
+                                                                                    style="color: white!important;"
+                                                                                    aria-hidden="true"></i></a>
                 </li>
                 <li>
                     <a href="https://twitter.com/hakanerycl" target="_blank"><i class="fa fa-twitter fa-2x"
-                                                                      style="color: white!important;"
-                                                                      aria-hidden="true"></i></a>
+                                                                                style="color: white!important;"
+                                                                                aria-hidden="true"></i></a>
                 </li>
                 <li>
                     <a href="https://www.instagram.com/hakanerycl/" target="_blank"><i class="fa fa-instagram fa-2x"
-                                                                            style="color: white!important;"
-                                                                            aria-hidden="true"></i></a>
+                                                                                       style="color: white!important;"
+                                                                                       aria-hidden="true"></i></a>
                 </li>
                 <li>
                     <a href="https://steamcommunity.com/id/holysist" target="_blank"><i class="fa fa-steam fa-2x"
-                                                                          style="color: white!important;"
-                                                                          aria-hidden="true"></i></a>
+                                                                                        style="color: white!important;"
+                                                                                        aria-hidden="true"></i></a>
                 </li>
             </ul>
         </div>
@@ -86,7 +88,7 @@
     </div>
     <!-- End #lead-content -->
 
-<!--    <div id="lead-overlay"></div>-->
+    <!--    <div id="lead-overlay"></div>-->
 
     <div id="lead-down">
             <span>
@@ -216,8 +218,8 @@
 <div id="projects" class="background-alt">
     <h2 class="heading">Projects</h2>
     <div class="container">
-        <div class="row" style="display: flex">
-            <div class="project shadow-large col-md-5">
+        <div class="row" style="display: flex; flex-wrap: wrap">
+            <div class="project shadow-large col-md-5 col-xs-12">
                 <div style="padding: 10px;display:flex;flex-direction:column">
                     <h3>UTMA - Online Machine Learning Platform</h3>
                     <p>
@@ -231,7 +233,7 @@
                     <a href="#">Being Developed</a>
                 </div>
             </div>
-            <div class="project shadow-large col-md-5">
+            <div class="project shadow-large col-md-5 col-xs-12">
                 <div style="padding: 10px;display:flex;flex-direction:column">
                     <h3>Participation Analysis - PHP, JS</h3>
                     <p>
@@ -245,8 +247,8 @@
                 </div>
             </div>
         </div>
-        <div class="row" style="display: flex">
-            <div class="project shadow-large col-md-5">
+        <div class="row" style="display: flex; flex-wrap: wrap">
+            <div class="project shadow-large col-md-5 col-xs-12">
                 <div style="padding: 10px;display:flex;flex-direction:column">
                     <h3>News/Magazine Website - asp.net</h3>
                     <p>
@@ -258,7 +260,7 @@
                     <a href="https://github.com/Hakan-er/just-c">View Project on Github</a>
                 </div>
             </div>
-            <div class="project shadow-large col-md-5">
+            <div class="project shadow-large col-md-5 col-xs-12">
                 <div style="padding: 10px;display:flex;flex-direction:column">
                     <h3>Paint Program - C# </h3>
                     <p>
@@ -276,8 +278,8 @@
                 </div>
             </div>
         </div>
-        <div class="row" style="display: flex">
-            <div class="project shadow-large col-md-5">
+        <div class="row" style="display: flex; flex-wrap: wrap">
+            <div class="project shadow-large col-md-5 col-xs-12">
                 <div style="padding: 10px;display:flex;flex-direction:column">
                     <h3>Hotel Management - C++</h3>
                     <p>
@@ -286,7 +288,7 @@
                     <a href="https://github.com/Hakan-er/Hotel-Management">View Project on Github</a>
                 </div>
             </div>
-            <div class="project shadow-large col-md-5">
+            <div class="project shadow-large col-md-5 col-xs-12">
                 <div style="padding: 10px;display:flex;flex-direction:column">
                     <h3>Just-C</h3>
                     <p>
@@ -298,8 +300,8 @@
                 </div>
             </div>
         </div>
-        <div class="row" style="display: flex">
-            <div class="project shadow-large col-md-5">
+        <div class="row" style="display: flex; flex-wrap: wrap">
+            <div class="project shadow-large col-md-5 col-xs-12">
                 <div style="padding: 10px;display:flex;flex-direction:column">
                     <h3>Shell - C</h3>
                     <p>
@@ -310,7 +312,7 @@
                     <a href="https://github.com/Hakan-er/Shell">View Project on Github</a>
                 </div>
             </div>
-            <div class="project shadow-large col-md-5">
+            <div class="project shadow-large col-md-5 col-xs-12">
                 <div style="padding: 10px;display:flex;flex-direction:column">
                     <h3>One More Project - RUST</h3>
                     <p>
@@ -331,17 +333,18 @@
 
 <div id="events" class="background-alt">
     <h2 class="heading">Events</h2>
-    <div class="container-fluid">
-        <div class="row" style="display: flex">
-            <div class="project shadow-large col-md-4" style="padding: 0;margin: 0 5px">
+    <div class="container-events">
+        <div class="row" style="display: flex; flex-wrap: wrap">
+            <div class="project shadow-large col-md-4 col-sm-6 col-xs-12"
+                 style="padding: 0;margin: 5px 5px;display: flex;flex-direction: column">
                 <div class="project-image">
-                    <img src="images/bilkamp.jpg" style="width: 100%;height:390px"/>
+                    <img src="images/bilkamp.jpg" style="width: 100%"/>
                 </div>
                 <!-- End .project-image -->
                 <div style="padding: 10px;display:flex;flex-direction:column">
                     <h3>BilKamp Competitive Programming Contest</h3>
                     <p>
-                        [ 27/04/2019 ]
+                        [ 27/04/2019 ]<br>
                         <b>winner</b>
                     </p>
                     <!--                    <a href="#">View Project</a>-->
@@ -349,36 +352,39 @@
                 <!-- End .project-info -->
             </div>
             <!-- End .project -->
-            <div class="project shadow-large col-md-4" style="padding: 0;margin: 0 5px">
+            <div class="project shadow-large col-md-4 col-sm-6 col-xs-12"
+                 style="padding: 0;margin: 5px 5px;display: flex;flex-direction: column">
                 <div class="project-image">
-                    <img src="images/ieee.jpg" style="width: 100%;height:390px"/>
+                    <img src="images/obss2.jpg" style="width: 100%"/>
+                </div>
+                <!-- End .project-image -->
+                <div style="padding: 10px;display:flex;flex-direction:column">
+                    <h3>OBSS Code Master Contest SAKARYA</h3>
+                    <p>
+                        [ 28/11/2019 ]<br>
+                        <b>third</b>
+                    </p>
+                    <!--                    <a href="#">View Project</a>-->
+                </div>
+                <!-- End .project-info -->
+            </div>
+            <!-- End .project -->
+            <div class="project shadow-large col-md-4 col-sm-6 col-xs-12"
+                 style="padding: 0;margin: 5px 5px;display: flex;flex-direction: column">
+                <div class="project-image">
+                    <img src="images/ieee.jpg" style="width: 100%;"/>
                 </div>
                 <!-- End .project-image -->
                 <div style="padding: 10px;display:flex;flex-direction:column">
                     <h3>IEEE Competitive Programming Contest </h3>
                     <p>
-                        [ 02/03/2019 ]
+                        [ 02/03/2019 ]<br>
                         <b>winner</b>
                     </p>
                     <!--                    <a href="#">View Project</a>-->
                 </div>
                 <!-- End .project-info -->
             </div>
-            <!-- End .project --><div class="project shadow-large col-md-4" style="padding: 0;margin: 0 5px">
-            <div class="project-image">
-                <img src="images/obss2.jpg" style="width: 100%;height:390px"/>
-            </div>
-            <!-- End .project-image -->
-            <div style="padding: 10px;display:flex;flex-direction:column">
-                <h3>OBSS Code Master Contest SAKARYA</h3>
-                <p>
-                    [ 28/11/2019 ]
-                    <b>third</b>
-                </p>
-                <!--                    <a href="#">View Project</a>-->
-            </div>
-            <!-- End .project-info -->
-        </div>
             <!-- End .project -->
         </div>
         <div class="row" style="display: flex">
