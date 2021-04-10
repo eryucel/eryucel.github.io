@@ -274,9 +274,11 @@ footer {
     #about {
         padding: 10px 15px !important;
     }
+
     #lead {
         background-position-y: -20px;
     }
+
     .project-image img {
         height: 150px
     }
@@ -286,9 +288,11 @@ footer {
     #about {
         padding: 25px 15px !important;
     }
+
     #lead {
         background-position-y: -165px;
     }
+
     .project-image img {
         height: 200px
     }
@@ -298,9 +302,11 @@ footer {
     #about {
         padding: 45px 15px !important;
     }
+
     #lead {
-        background-position-y: -300px;
+        /*background-position-y: -300px;*/
     }
+
     .project-image img {
         height: 300px
     }
@@ -310,9 +316,11 @@ footer {
     #about {
         padding: 75px 15px !important;
     }
+
     #lead {
         background-position-y: -400px;
     }
+
     .project-image img {
         height: 400px
     }
@@ -805,7 +813,7 @@ footer {
         height: auto;
         min-height: auto;
         max-height: auto;
-        padding: 100px 15px
+        /*padding: 100px 15px*/
     }
 
     #lead-content {
