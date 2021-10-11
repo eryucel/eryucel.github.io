@@ -238,7 +238,7 @@
                         When
                         we finish we will share it as an open source project.
                     </p>
-                    <a href="#">Being Developed</a>
+                    <a href="https://github.com/Hakan-er/utma">View Project on Github</a>
                 </div>
             </div>
             <div class="project shadow-large col-md-5 col-xs-12">
