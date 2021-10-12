@@ -113,7 +113,7 @@
             </div>
             <div class="col-md-8">
                 <p>
-                    My name is Hakan Eryücel. I am a senior student of Sakarya University computer engineering(science).
+                    My name is Hakan Eryücel. This year, I graduated from the computer engineering(science) department with a GPA of 3.54, as the third in the department.
                     I
                     currently live in Turkey. I have been working as a web developer for a software company for two
                     years. I am also dealing with competitive programming and working on a machine learning platform as
