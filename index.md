@@ -128,7 +128,7 @@
 <div id="experience" class="background-alt">
     <h2 class="heading">Experience</h2>
     <div id="experience-timeline">
-        <div data-date="July 2020 – Current">
+        <div data-date="July 2020 – June 2021">
             <h3>Full-stack Developer</h3>
             <h4 style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif">Erkay Teknoloji Geliştirme Hizmetleri
                 San. Tic. Ltd. Şti.</h4>
@@ -144,10 +144,10 @@
                     framework</b>
                 </li>
                 <li>
-                    Backend development with <b>Php</b> and <b>Laravel Framework</b>
+                    Backend development with <b>Php</b> and <b>Python</b>
                 </li>
                 <li>
-                    Frontend development with <b></b>
+                    Frontend development with <b>Angular</b>
                 </li>
                 <li>
                     <b>PostgreSQL</b> and <b>MySQL</b>
@@ -190,19 +190,10 @@
         <h3>Sakarya University - TURKEY</h3>
         <span class="education-date">Sept 2017 - July 2021</span>
         <h4>Bachelor of Science in Computer Science (Engineering)</h4>
-        <h4><b>CGPA:</b> <u>3.5/4</u></h4>
+        <h4><b>CGPA:</b> <u>3.54/4</u> and <b>third degree in departmant</b></h4>
         <p>
-            I am a senior student at Sakarya University. The computer engineering department of this university includes
-            both general engineering courses, software courses and hardware courses. I will graduate at the end of 2021.
+            I graduated from Sakarya University Computer Engineering Department in 2021 with the third place in the division. The computer engineering department of this university includes both general engineering courses, software courses and hardware courses.
         </p>
-        <!--        <ul>-->
-        <!--            <li>-->
-        <!--                Lorem ipsum dolor sit amet, consectetur adipiscing elit.-->
-        <!--            </li>-->
-        <!--            <li>-->
-        <!--                Lorem ipsum dolor sit amet, consectetur adipiscing elit.-->
-        <!--            </li>-->
-        <!--        </ul>-->
     </div>
     <!-- End .education-block -->
 
