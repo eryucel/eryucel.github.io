@@ -128,6 +128,13 @@
 <div id="experience" class="background-alt">
     <h2 class="heading">Experience</h2>
     <div id="experience-timeline">
+        <div data-date="November 2021 – Current">
+            <h3>Software Developer</h3>
+            <h4 style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif">Paraşüt Yazılım</h4>
+            <p>
+                After graduating in 2021, I started working in the Atlas team at Paraşüt. I am currently developing software using <b>Emberjs</b> and <b>Ruby on Rails</b>.
+            </p>
+        </div>
         <div data-date="July 2020 – June 2021">
             <h3>Full-stack Developer</h3>
             <h4 style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif">Erkay Teknoloji Geliştirme Hizmetleri
@@ -154,7 +161,6 @@
                 </li>
             </ul>
         </div>
-
         <div data-date="September 2019 – September 2020">
             <h3>Web Developer Intern</h3>
             <h4 style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif">Erkay Teknoloji Geliştirme Hizmetleri
@@ -190,7 +196,7 @@
         <h3>Sakarya University - TURKEY</h3>
         <span class="education-date">Sept 2017 - July 2021</span>
         <h4>Bachelor of Science in Computer Science (Engineering)</h4>
-        <h4><b>CGPA:</b> <u>3.54/4</u> and <b>third degree in department</b></h4>
+        <h4><b>CGPA:</b> <u>3.5/4</u> and <b>third degree in department</b></h4>
         <p>
             I graduated from Sakarya University Computer Engineering Department in 2021 with the third place in the division. The computer engineering department of this university includes both general engineering courses, software courses and hardware courses.
         </p>
