@@ -393,6 +393,8 @@
 <div id="skills">
     <h2 class="heading">Skills</h2>
     <ul>
+        <li>Ruby on Rails</li>
+        <li>Emberjs</li>
         <li>Php</li>
         <li>Angular</li>
         <li>Django Rest Framework</li>
@@ -400,13 +402,11 @@
         <li>MySQL</li>
         <li>PostgreSQL</li>
         <li>Jquery</li>
+        <li>Php Slim Framework</li>
         <li>Python</li>
         <li>HTML</li>
         <li>Bootstrap</li>
-        <li>Sass</li>
-        <li>Tailwind</li>
         <li>CSS</li>
-        <li>Php Slim Framework</li>
     </ul>
 </div>
 <!-- End #skills -->
