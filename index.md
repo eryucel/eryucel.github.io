@@ -430,7 +430,7 @@
         <div class="row">
             <div class="col-sm-5 copyright">
                 <p>
-                    Copyright &copy; 2021 HAKAN ERYÜCEL
+                    Copyright &copy; 2022 HAKAN ERYÜCEL
                 </p>
             </div>
             <div class="col-sm-2 top">
