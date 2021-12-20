@@ -228,8 +228,7 @@
                         <b>Angular</b> in
                         the interface, <b>DJANGO Rest Framework</b> in the <b>API</b> part and <b>Python</b> in the <b>machine
                         learning</b> part.
-                        When
-                        we finish we will share it as an open source project.
+                        When the project is finished, it will be released as open source project.
                     </p>
                     <a href="https://github.com/Hakan-er/utma">View Project on Github</a>
                 </div>
