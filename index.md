@@ -113,7 +113,7 @@
             </div>
             <div class="col-md-8">
                 <p>
-                    My name is Hakan Eryücel. In 2021, I graduated from the computer engineering(science) department with a GPA of 3.54, as the third in the department. I live in Turkey. I have been working as a web developer for seperate software companies for almost three years. I am also dealing with competitive programming and working on a machine learning platform as a finishing project. Nowadays I try to learn to play harmonica in my spare time.
+                    My name is Hakan Eryücel. In 2021, I graduated from the computer engineering(science) department with a GPA of 3.54/4, as the third in the department. I live in Turkey. I have been working as a web developer for seperate software companies for almost three years. I am also dealing with competitive programming and working on a machine learning platform as a finishing project. Nowadays I try to learn to play harmonica in my spare time.
                 </p>
             </div>
         </div>
